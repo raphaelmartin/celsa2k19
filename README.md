@@ -1,10 +1,10 @@
 # celsa2k19
 
 ## Bibliographie
-* l’industrie des médias à l’ère numérique — GABZEWICZ/SONNAC
-* mythologies — BARTHES
-* qu’est-ce que l’archéologie des média? — PARIKKA
-* une société de communication? — NEVEU
+* _L’industrie des médias à l’ère numérique_ — GABZEWICZ/SONNAC
+* _Mythologies_ — BARTHES
+* _Qu’est-ce que l’archéologie des média?_ — PARIKKA
+* _Une société de communication?_ — NEVEU
 
 ## Veille
 * Fiche semaine 24/02 + 03/03
