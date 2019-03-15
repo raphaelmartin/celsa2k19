@@ -1,2 +1,0 @@
-# sonnac\_gabszewicz
-
