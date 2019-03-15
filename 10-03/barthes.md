@@ -1,2 +1,2 @@
-# barthes
+# BARTHES — Mythologies
 
