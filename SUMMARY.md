@@ -8,5 +8,5 @@
 * [barthes](10-03/barthes.md)
 * [neveu](10-03/neveu.md)
 * [parikka](10-03/parikka.md)
-* [sonnac\_gabszewicz](10-03/sonnac_gabszewicz.md)
+* [SONNAC/GABSZEWICZ — L'industrie des médias à l'ère numérique](10-03/sonnac_gabszewicz.md)
 
