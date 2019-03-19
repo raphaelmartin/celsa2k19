@@ -63,6 +63,11 @@ Les traits majeurs de l'information:
 3. bien **sous tutelle**:
 4. une information en **réseau**:
 
+## L'offre des produits médiatiques
+
+## La demande des produits médiatiques
+
+## Marchés et stratégies des médias à l'ère numérique
 
 
 
